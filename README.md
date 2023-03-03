@@ -3,3 +3,4 @@
 <br><br>
 # プライバシーポリシーのページ
 - [サクッと会計簿-簡単楽々おこづかい帳](/privacy-policy/saku-to-kakeibo)
+- [タイムタスク-時間で作業](/privacy-policy/time-task.md)
