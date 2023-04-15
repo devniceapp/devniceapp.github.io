@@ -29,7 +29,7 @@ https://policies.google.com/technologies/ads?hl=ja
 
 https://policies.google.com/privacy?hl=ja
 <br><br>
-なお、トラッキングを許可しないことで、AdMob からの情報取得を無効化することができ、これによってアプリの利用が制限されることはありません。
+なお、トラッキングを許可しないことによりアプリの利用が制限されることはありません。
 <br><br>
 
 ## 免責事項
