@@ -9,3 +9,4 @@
 - [タイムタスク-時間で作業](/privacy-policy/time-task.md)
 - [買メモ](/privacy-policy/kaimemo.md)
 - [レシボ](/privacy-policy/recibo.md)
+- [Tocopin](/privacy-policy/tocopin.md)
